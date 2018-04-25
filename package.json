@@ -1,10 +1,10 @@
 {
-  "name": "sample-material-ui-next-dashboard",
-  "version": "1.0.0",
+  "name": "react-webapp-boilerplate",
+  "version": "0.0.1",
   "description":
-    "Simple responsive interface with some media cards and a left-drawer.",
+    "",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/new",
+  "homepage": "",
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/icons": "latest",
