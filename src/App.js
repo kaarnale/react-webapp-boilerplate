@@ -13,7 +13,7 @@ import MenuIcon from "@material-ui/icons/Menu";
 import { mailFolderListItems, otherMailFolderListItems } from "./tileData";
 import Cards from "./Cards.js";
 
-const drawerWidth = 240;
+const drawerWidth = 241;
 
 const styles = theme => ({
   root: {
